@@ -1,0 +1,3 @@
+# https://www.robotstxt.org/robotstxt.html 用来配置搜索引擎爬虫的
+User-agent: *
+Disallow:
